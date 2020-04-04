@@ -9,7 +9,7 @@ References:
 <idea-plugin>
   <id>com.arcticicestudio.nord.jetbrains</id>
   <name>Nord</name>
-  <version>0.13.0</version>
+  <version>0.23.0</version>
   <vendor email="development@svengreb.de" url="https://www.svengreb.de">Sven Greb</vendor>
 
   <description>

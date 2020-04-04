@@ -8,7 +8,7 @@
       "acceleratorForeground": "#88c0d0",
       "acceleratorSelectionForeground": "#88c0d0",
       "background": "#2e3440",
-      "borderColor": "#3b4252",
+      "borderColor": "#646b7c",
       "disabledBackground": "#2e3440",
       "disabledBorderColor": "#3b4252",
       "disabledForeground": "#616e88",
@@ -26,7 +26,7 @@
       "lightSelectionInactiveForeground": "#d8dee9",
       "lineSeparatorColor": "#4c566a",
       "modifiedItemForeground": "#ebcb8b",
-      "selectionBackground": "#4c566a",
+      "selectionBackground": "#3C4E77",
       "selectionBackgroundInactive": "#434c5e",
       "selectionForeground": "#eceff4",
       "selectionInactiveBackground": "#434c5e",
@@ -40,7 +40,8 @@
       "pressedBorderColor": "#434c5e"
     },
     "Borders": {
-      "ContrastBorderColor": "#3b4252"
+      "color": "#566272",
+      "ContrastBorderColor": "#566272"
     },
     "Button": {
       "endBackground": "#4c566a",
@@ -85,9 +86,7 @@
       "matchSelectionForeground": "#88c0d0",
       "nonFocusedState": "#2e3440",
       "selectionBackground": "#4c566a",
-      "selectionInactiveBackground": "#4c566a",
-      "selectionInactiveInfoForeground": "#4c566a",
-      "selectionInfoForeground": "#eceff4"
+      "selectionInactiveBackground": "#4c566a"
     },
     "Component": {
       "errorFocusColor": "#bf616a",
@@ -116,7 +115,7 @@
     },
     "DragAndDrop": {
       "areaBackground": "#2e3440",
-      "areaBorderColor": "#4c566a",
+      "borderColor": "#4c566a",
       "areaForeground": "#eceff4"
     },
     "Editor": {
@@ -144,10 +143,6 @@
     },
     "GutterTooltip": {
       "infoForeground": "#88c0d0"
-    },
-    "HelpTooltip": {
-      "background": "#3b4252",
-      "shortcutForeground": "#88c0d0"
     },
     "Label": {
       "foreground": "#eceff4",
@@ -215,9 +210,6 @@
         "updateBackground": "#81a1c1",
         "updateBorderColor": "#81a1c1",
         "updateForeground": "#2e3440"
-      },
-      "SearchField": {
-        "borderColor": "#3b4252"
       },
       "SectionHeader": {
         "background": "#3b4252"
